@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages OK
 
 You can use the [editor on GitHub](https://github.com/MarcAndre-Wessner/niche-theme.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
